@@ -1,0 +1,15 @@
+[
+   {
+            "termeknev": "Monopoly",
+          "ar":2500,
+          "tipus":"táblajáték"   
+   }, {
+           "termeknev": "Activity",
+            "ar":3000,
+           "tipus":"táblajáték"        
+   } ,{
+          "termeknev": "Uno",
+          "ar":1000,
+          "tipus":"kártyajáték"     
+  }
+]
